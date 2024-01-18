@@ -1,0 +1,7 @@
+C:\Users\hp\a\day-5-2\UC1\UC1\bin\Debug\UC1.exe.config
+C:\Users\hp\a\day-5-2\UC1\UC1\bin\Debug\UC1.exe
+C:\Users\hp\a\day-5-2\UC1\UC1\bin\Debug\UC1.pdb
+C:\Users\hp\a\day-5-2\UC1\UC1\obj\Debug\UC1.csproj.AssemblyReference.cache
+C:\Users\hp\a\day-5-2\UC1\UC1\obj\Debug\UC1.csproj.CoreCompileInputs.cache
+C:\Users\hp\a\day-5-2\UC1\UC1\obj\Debug\UC1.exe
+C:\Users\hp\a\day-5-2\UC1\UC1\obj\Debug\UC1.pdb

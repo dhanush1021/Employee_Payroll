@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace UC3
+namespace UC4
 {
     internal class Program
     {
@@ -13,17 +12,17 @@ namespace UC3
         {
             Random rnd = new Random();
             int val = rnd.Next(3);
-            if (val == 0)
+            switch (val)
             {
-                Console.WriteLine("Absent");
-            }
-            else if (val == 1)
-            {
-                Console.WriteLine("Part time");
-            }
-            else
-            {
-                Console.Write("Full time");
+                case 0:
+                    Console.WriteLine("Absent");
+                    break;
+                case 1:
+                    Console.WriteLine("Part Time");
+                    break;
+                case 2:
+                    Console.WriteLine("Full Time");
+                    break;
             }
             Console.ReadKey();
         }
